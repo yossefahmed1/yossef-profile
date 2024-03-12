@@ -1,0 +1,44 @@
+.a{
+    text-align: center;
+    display: inline;
+}
+.s{
+    border: 5px solid black;
+    padding: 0px 25px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    margin-top: 35px;
+}
+.d,
+.f,
+.g,
+.h,
+.j
+{
+    border: 2px  black solid;
+    padding-left: 100px;
+}
+.k{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 75px;
+    height: 50px;
+    margin-top: -400px;
+    margin-left: 20px;
+}
+.r{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.i{
+    border: 1px  solid black;
+    padding: 10px; 
+}
+.e{
+    font-size: 20px;
+}
